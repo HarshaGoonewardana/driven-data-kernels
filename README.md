@@ -10,7 +10,7 @@ It is a regression problem. The metric that the competition is using to evaluate
 
 #### 2. Predict Blood donations.ipynb - Warm Up: Predict Blood Donations
 #### Problem Statement
-The problem requires us to predict the donation based on the features that are available in our dataset.
+The problem requires us to predict whether a donor will make a blood donation based on the features that are available in our dataset.
 
 It is a classification problem. The metric that the competition is using to evaluate the model is log loss. For more information on this metric please visit this link https://www.kaggle.com/wiki/LogLoss
 
