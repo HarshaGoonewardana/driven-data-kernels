@@ -20,7 +20,7 @@ The problem requires us to predict the donation based on the features that are a
 
 #### Motivation
 Here the primary reason for doing these competitions are to test our machine learning skills. 
-We will try to climb the leaderboards in the competitions rather we will just use them for practice
+We will not try to climb the leaderboards in the competitions rather we will just use them for practice
 
 #### Dependencies
 1. Python 3+
